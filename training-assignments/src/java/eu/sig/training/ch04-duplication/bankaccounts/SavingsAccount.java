@@ -1,4 +1,7 @@
-package eu.sig.training.ch04;
+package eu.sig.training.ch04.v2;
+
+import eu.sig.training.ch04.BusinessException;
+import eu.sig.training.ch04.Money;
 
 // tag::SavingsAccount[]
 public class SavingsAccount {
