@@ -39,6 +39,9 @@ public class FlagFactory {
             break;
         case RUSSIA:
             result = Arrays.asList(Color.WHITE, Color.BLUE, Color.RED);
+            break;          
+        case LUXEMBOURGER:
+            result = Arrays.asList(Color.RED, Color.WHITE, Color.LIGHT.BLUE);
             break;
         case UNCLASSIFIED:
         default:
